@@ -3,4 +3,4 @@
 
 - exit out of your steam before starting script
 - first time you start the script, you might have to re-login
-- create a new .bat file for each steam account you've/want to login to; can't have something like "set username=steamaccount1 steamaccount2"
+- create a new .bat file for each steam account you've/want to login to
